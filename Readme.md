@@ -1,4 +1,4 @@
-# Diffusion LoRA: Minimal Fine-Tuning for Stable Diffusion
+# Diffusion LoRA: Fine-Tuning for Stable Diffusion
 
 Train a LoRA adapter on your own image–text pairs, then generate images with the adapted model.
 
